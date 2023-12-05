@@ -54,6 +54,7 @@ header {
 
 #appicon:hover {
   opacity: 1;
+  transition-duration: 0.5s;
 }
 
 #sign-in-btn {
@@ -96,7 +97,14 @@ header {
 #microphone {
   position: relative;
   top: 5px;
-  right: 74px;
+  right: 105px;
+  height: 20px;
+}
+
+#lens {
+  position: relative;
+  top: 5px;
+  right: 90px;
   height: 20px;
 }
 

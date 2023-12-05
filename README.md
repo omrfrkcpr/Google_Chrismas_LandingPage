@@ -1,4 +1,5 @@
 # Google_Chrismas_LandingPage
+
 https://omrfrkcpr.github.io/Google_Chrismas_LandingPage/
 
 ## Description
@@ -14,6 +15,7 @@ Google-Chrismas-LandingPage (folder)
 |----images
     |----appicon.png
     |----gfavicon.png
+	|----Google_Lens_2023.png
 	|----google_microphone.png
 	|----googlelogo.png
 	|----icon-menu.jpg
