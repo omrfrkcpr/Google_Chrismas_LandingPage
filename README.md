@@ -29,7 +29,8 @@ Google-Chrismas-LandingPage (folder)
 
 ## Expected Outcome
 
-![Project](https://github.com/omrfrkcpr/Google_Chrismas_LandingPage/assets/77440899/f6fc6294-c6be-4002-812a-f23549e22de0)
+![Project](https://github.com/omrfrkcpr/Google_Chrismas_LandingPage/assets/77440899/7a8e5283-ce0f-46fa-9bbe-5e815ce426e4)
+
 
 ### At the end of the project, following topics are to be covered;
 
