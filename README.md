@@ -8,18 +8,20 @@
 ```
 Google-Chrismas-LandingPage (folder)
 |
-|----readme.md                  
+|----README.md 
+|----Project.png                 
 |----images            
-        |----appicon.png   
-        |----gfavicon.png
+    |----appicon.png   
+    |----gfavicon.png
 	|----google_microphone.png
 	|----googlelogo.png
 	|----icon-menu.jpg
 	|----magnifying_glass.png
+	|----noticia-1545589353-doodle-google-navidad.png
 |----solution
         |----index.html  #This file contains the HTML structure for the landing page.
-        |----style.css   
-        |----images
+        |----style.css  
+|----LICENSE 
 ```
 
 ## Expected Outcome
@@ -44,5 +46,8 @@ Google-Chrismas-LandingPage (folder)
 - improve coding skills within HTML & CSS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+
+
 
 
