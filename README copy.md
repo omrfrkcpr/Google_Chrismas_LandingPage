@@ -1,25 +1,28 @@
 # Google_Chrismas_LandingPage
 
 ## Description
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to recreate the iconic Google landing page as a learning exercise for web development. 
 
-## Project Skeleton 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to recreate the iconic Google landing page as a learning exercise for web development.
+
+## Project Skeleton
 
 ```
 Google-Chrismas-LandingPage (folder)
 |
-|----readme.md                  
-|----images            
-        |----appicon.png   
-        |----gfavicon.png
+|----README.md
+|----Project.png
+|----images
+    |----appicon.png
+    |----gfavicon.png
 	|----google_microphone.png
 	|----googlelogo.png
 	|----icon-menu.jpg
 	|----magnifying_glass.png
+	|----noticia-1545589353-doodle-google-navidad.png
 |----solution
         |----index.html  #This file contains the HTML structure for the landing page.
-        |----style.css   
-        |----images
+        |----style.css
+|----LICENSE
 ```
 
 ## Expected Outcome
@@ -28,7 +31,7 @@ Google-Chrismas-LandingPage (folder)
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML 
+- HTML
 
 - List Properties-Tables / CSS-The Display Property-The position Property
 
@@ -38,11 +41,8 @@ Google-Chrismas-LandingPage (folder)
 
 - By working on this project, you can enhance your HTML and CSS skills, practice responsive design, and gain hands-on experience in building a user interface.
 
-
 ### At the end of the project, We will be able to;
 
 - improve coding skills within HTML & CSS
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-
