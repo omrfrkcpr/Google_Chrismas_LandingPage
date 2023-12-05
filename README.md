@@ -18,9 +18,8 @@ Google-Chrismas-LandingPage (folder)
 	|----icon-menu.jpg
 	|----magnifying_glass.png
     |----noticia-1545589353-doodle-google-navidad.png
-|----solution
-        |----index.html  #This file contains the HTML structure for the landing page.
-        |----style.css
+|----index.html  #This file contains the HTML structure for the landing page.
+|----style.css
 |----LICENSE
 |----Project.png
 ```
