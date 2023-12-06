@@ -150,7 +150,8 @@ input {
   margin-right: 8px;
 }
 
-#btn1:hover {
+#btn1:hover,
+#btn2:hover {
   color: black;
   border: 1px solid lightgray;
   box-shadow: 0.7px 0.7px 0.7px lightgray;
@@ -165,12 +166,6 @@ input {
   color: #5f6368;
 }
 
-#btn2:hover {
-  color: black;
-  border: 1px solid lightgray;
-  box-shadow: 0.7px 0.7px 0.7px lightgray;
-  cursor: pointer;
-}
 #language {
   text-align: center;
   margin-top: 20px;
@@ -181,7 +176,7 @@ input {
   border: none;
 }
 
-#language a {
+#language select {
   color: navy;
 }
 
@@ -206,6 +201,7 @@ footer {
   border-radius: 10px;
   border-color: gray;
   height: 20px;
+  color: #5f6368;
 }
 
 .footer-links {
