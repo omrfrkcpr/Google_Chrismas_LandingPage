@@ -4,7 +4,7 @@ https://omrfrkcpr.github.io/Google_Chrismas_LandingPage/
 
 ## Description
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to recreate the iconic Google Chrismas landing page as a learning exercise for web development.
+This project aims to recreate the iconic Google Chrismas landing page as a learning exercise for web development.
 
 ## Project Skeleton
 
@@ -27,12 +27,11 @@ Google-Chrismas-LandingPage (folder)
 |----Project.png
 ```
 
-## Expected Outcome
+## Outcome
 
 ![Project](https://github.com/omrfrkcpr/Google_Chrismas_LandingPage/assets/77440899/7a8e5283-ce0f-46fa-9bbe-5e815ce426e4)
 
-
-### At the end of the project, following topics are to be covered;
+### At the end of the project, following topics are covered;
 
 - HTML
 
@@ -44,7 +43,7 @@ Google-Chrismas-LandingPage (folder)
 
 - By working on this project, you can enhance your HTML and CSS skills, practice responsive design, and gain hands-on experience in building a user interface.
 
-### At the end of the project, We will be able to;
+### At the end of the project, will be able to;
 
 - improve coding skills within HTML & CSS
 
